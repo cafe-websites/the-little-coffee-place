@@ -1,0 +1,6 @@
+- days: Weekdays
+  open: 6:30 AM
+  close: 1:30 PM
+- days: Weekends
+  open: 8:00 AM
+  close: 1:30 PM

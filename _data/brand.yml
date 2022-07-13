@@ -1,0 +1,5 @@
+name: The Little Coffee Place
+description: Delicious coffee and great food. You'll always find something you fancy at The Little Coffee Place.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#935B13"

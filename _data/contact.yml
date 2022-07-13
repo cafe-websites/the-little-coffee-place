@@ -1,0 +1,10 @@
+location:
+  address: 238 Wells Rd, Chelsea Heights VIC 3196
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12568.308111181641!2d145.1184122395508!3d-38.04529149999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad60d524c8e4f4b%3A0xc5ae1bbc52ef3f22!2sThe%20Little%20Coffee%20Place!5e0!3m2!1sen!2sau!4v1657604056398!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/thelittlecoffeeplace/
+  - platform: phone
+    link: tel:0421652298
